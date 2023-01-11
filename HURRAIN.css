@@ -1,0 +1,461 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+background-color: black;
+
+}
+
+.nav ,ul li {
+    display: inline;
+    background-color: black;
+    position: sticky;
+    top: 0%;
+}
+.nav ,ul li a{
+    text-align: right;
+    padding: 12px 20px;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    
+}
+
+.nav ,ul li a:hover{
+    color: yellow;
+}
+.logo{
+    position: absolute;
+    width: 180px;
+    height: 150px;
+    top: 0%;
+    
+}
+
+ .banner{
+    position: absolute;
+    width:300px;
+    height: 112%;
+    top: 5%;
+    text-align: center;
+    padding: 25px;
+    left: 25%;
+}
+
+.img{
+    position: absolute;
+    bottom: -0.55555px;
+    height: 310.5px;
+    box-shadow: 1px 2px 10px 5px white;
+}
+.para{
+    color: yellow;
+    position: absolute;
+    bottom: -100px;
+    left: 40px;
+    text-align: justify;
+}
+button{
+    border: none;
+    position: absolute;
+    bottom: -25%;
+    background: yellow;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+}
+h1{
+    color: white;
+    position: absolute;
+    bottom: -35%;
+   text-transform: uppercase;
+   
+}
+.para1{
+    color: white;
+    position:absolute;
+    bottom: -60%;
+    text-align: justify;
+}
+
+.button1{
+    border: none;
+    position: absolute;
+    bottom: -24.5%;
+    left: 13%;
+    background: yellow;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+}
+
+.button2{
+    border: none;
+    position: absolute;
+    bottom: -24.5%;
+    left: 20.5%;
+    background: yellow;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+}
+
+.img1{
+    position: absolute;
+    width: 550px;
+    height: 460px;
+    bottom: -75%;
+    right: 10%;
+}
+
+.button3{
+    border: none;
+    position: absolute;
+    bottom: -24.5%;
+    left: 5.5%;
+    bottom: -70%;
+    background: yellow;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+}
+.img2{
+    position: absolute;
+    width: 550px;
+    height: 500px;
+    bottom: -170%;
+}
+.h2{
+    position: absolute;
+    bottom: -800px;;
+    color: white;
+    right: 25%;
+}
+.h3{
+    position: absolute;
+    bottom: -125%;
+    color: white;
+    right: 12.5%;
+    font-size: 32px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h4{
+    position: absolute;
+    bottom: -150%;
+    color: white;
+    right: 20.5%;
+
+}
+.img5{
+    position: absolute;
+    width: 300px;
+    height: 252px;
+    top: 61%;
+    right: 10%;
+}
+.h5{
+    color: white;
+    position: absolute;
+    bottom: -200%;
+    right: 43%;
+    font-size: 34px;
+}
+.h6{
+    color: white;
+    position: absolute;
+    bottom: -210%;
+    right: 36%;
+    font-size: 50px;
+}
+.h7{
+    color: white;
+    position: absolute;
+    bottom: -218%;
+    left: 1%;
+    text-align: center;
+}
+
+.box2{
+    background-color:rgb(48, 47, 47);;
+    position: absolute;
+    padding-top: 170px;
+    padding-bottom: 170px;
+    padding-left: 170px;
+    padding-right: 170px;
+    bottom: -290%;
+    left: 03%;
+}
+.box3{
+    background-color:rgba(48, 47,47);
+    position: absolute;
+    padding-top: 170px;
+    padding-bottom: 170px;
+    padding-left: 170px;
+    padding-right: 170px;
+    bottom: -290%;
+    left: 39%;
+}
+.box4{
+    background-color: rgb(48, 47, 47);
+    position: absolute;
+    padding-top: 170px;
+    padding-bottom: 170px;
+    padding-left: 170px;
+    padding-right: 170px;
+    bottom: -290%;
+    left: 75%;
+}
+.img7{
+    position: absolute;
+    width: 170px;
+    height: 163px;
+    box-shadow: 5px 10px 10px 3px gold;
+    bottom: 90%;
+    left: 24%;
+    border-radius: 300px;
+}
+.img8{
+    position: absolute;
+    width: 170px;
+    height: 163px;
+    box-shadow: 5px 10px 10px 3px gold;
+    bottom: 90%;
+    left: 24%;
+    border-radius: 300px;
+}
+.img9{
+    position: absolute;
+    width: 170px;
+    height: 163px;
+    box-shadow: 5px 10px 10px 3px gold;
+    bottom: 90%;
+    left: 24%;
+    border-radius: 300px;
+}
+
+.para3{
+    color: white;
+    position: absolute;
+    bottom: -255%;
+    left: 5%;
+    font-size: 25px;
+}
+.para4{
+    color: white;
+    position: absolute;
+    bottom: -263%;
+    left: 45%;
+    font-size: 25px;
+
+}
+.para5{
+    color: white;
+    position: absolute;
+    bottom: -285%;   
+    font-size: 25px;
+    right: 3%;
+}
+.p10{
+    position: absolute;
+    bottom: -285%;
+    left: 40%;
+    color: white;
+    font-size: 25px;
+}
+.p16{
+    color: white;
+    position: absolute;
+    bottom: -278%;
+    font-size: 25px;
+    left: 4%;
+}
+.p17{
+    color: white;
+    position: absolute;
+    bottom: -330%;
+    font-size: 25px;
+    left: 50%;
+    right: 45%;
+    font-size: 50px; 
+}
+.p18{
+    color: white;
+    position: absolute;
+    bottom: -340%;
+    font-size: 25px;
+    left: 8.5%;
+    text-align: center;
+     
+
+}
+.pc{
+    width: 750px;
+    height: 672px;
+    position: absolute;
+    bottom: -430%;
+}
+.h19{
+    color: white;
+    background-color: goldenrod;
+    position: absolute;
+    bottom: -370%;
+    right: 10%;
+    font-size: 45px;
+    border-radius: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2px;
+    padding-left: 4px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+
+}
+.p19{
+    color: white;
+    position: absolute;
+    bottom: -390%;
+    right: 15%;
+    font-size: 25px;
+}
+.p20{
+
+color: white;
+position: absolute;
+bottom: -450%;
+left: 50%;
+font-size: 50px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.p21{
+    color: white;
+    position: absolute;
+    bottom: -460%;
+    left: 42.5%;
+    font-size: 57px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img21{
+    position: absolute;
+    width: 450px;
+    height: 535px;
+    left: -136%;
+    bottom: -990%;
+    
+}
+.p22{
+    position: absolute;
+    width: 450px;
+    height: 250px;
+    bottom: -390%;
+    right: 10%;
+}
+.box6{
+    position: absolute;
+    padding-top: 20px gray;
+    padding-bottom: 20px gray;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: 14px;
+  
+}
+.container{
+    width: 80%;
+ 
+    position: absolute;
+    bottom: -650%;
+    left: 10%;
+}
+.content-box{
+    background: #fff;
+    display: flex;
+}
+.content-left{
+    flex-basis: 60%;
+    padding: 40px 60px;
+}
+.content-right{
+    flex-basis: 40%;
+    padding: 40px;
+    background: goldenrod;
+    color: white;
+}
+h1{
+    margin-bottom: 10px;
+}
+.container p{
+    margin-bottom: 40px;
+}
+.input-row{
+    display: initial;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.input-row.input-group{
+    flex-basis: 45%;
+
+}
+input{
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    outline: none;
+    padding-bottom: 5px;
+}
+textarea{
+    width: 100%;
+    border: 1px solid #ccc;
+    outline: none;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.h32{
+    color: white;
+    position: absolute;
+    bottom: -580%;
+    font-size: 50px;
+    left: 40%;
+}
+.button32{
+    color: blue;
+    position: absolute;
+    bottom: -650%;
+    left: 50%;
+}
+.h40{
+    color: white;
+    position: absolute;
+    bottom: -670%;
+    left: 42%;
+}
+.h41{
+color: goldenrod;
+position: absolute;
+bottom: -670%;
+left: 57.5%;
+font-size: 17px;
+}
+.btn23{
+    color: black;
+    position: absolute;
+    left: 27.5%;
+}

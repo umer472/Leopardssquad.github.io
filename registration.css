@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+body{
+    background: black;
+}
+.h3{
+    color: goldenrod;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 36px;
+}
+
+.form{
+    text-align: center;
+}
+
+.name{
+    color: goldenrod;
+    text-align: center;
+}
+.secondname{
+    color: goldenrod;
+    text-align: center;
+}
